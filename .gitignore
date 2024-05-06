@@ -1,3 +1,10 @@
+# ipynb checkpoint
+data/.ipynb_checkpoints/coding4-checkpoint.tsv
+data/coding4.tsv
+
+# large xml
+*.xml*
+
 # dotenv
 .env
 
@@ -34,6 +41,7 @@ vignettes/*.pdf
 # knitr and R markdown default cache directories
 *_cache/
 /cache/
+
 
 # Temporary files created by R markdown
 *.utf8.md
